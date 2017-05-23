@@ -5,28 +5,28 @@
 
 > What is identification?
 
-<!-- Answer here -->
+A way to recognize who you are. What makes you uniquely addressable. ex. email address or usernames.
 
 > What is authentication?
 
-<!-- Answer here -->
+a way to prove that who you claim as your identity is actually who you are in real life.
 
 > What is authorization?
 
-<!-- Answer here -->
+What permissions are given associated to the account.
 
 > What is your opinion on how identification and authentication are currently implemented in the industry?
 
-<!-- Answer here -->
+identification and authentication are currently implemented poorly. Often user names can have duplicates. Reuse of one password over many accounts can be a downfall as well. The paradigm for passwords are so narrow that it tempts people to hack.
 
 > What is your password?
 
-<!-- Answer here -->
+SuperSecretPa$$word
 
 > If a customer asked for a set of rules for appropriate passwords, what advice would you give them?
 
-<!-- Answer here -->
+A good suggestion would be to use a sentence, not to easily associated to you. avoid words in the dictionary.
 
 > What advice would you give loved ones for their own passwords?
 
-<!-- Answer here -->
+ When updating passwords, avoid small changes like adding one character. Use a unique password for each account. Dont repeat previous passwords. 
